@@ -154,3 +154,4 @@ SmartPark_Management_System/
     ├── register.html    # User registration screen
     └── settings.html    # Admin rates, DEMO TIME ADJUSTMENT, slot mapping
 ```
+*Note: 2nd-Year CSE minor project. Configured and deployed by Siddhesh Sonar. Core codebase developed in collaboration with development partners.
